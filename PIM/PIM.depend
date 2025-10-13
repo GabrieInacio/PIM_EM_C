@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1760389112 source:c:\users\gabri\onedrive\documentos\pim c\pim\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-	<time.h>
-	<ctype.h>
-
